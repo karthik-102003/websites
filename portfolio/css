@@ -1,1 +1,63 @@
+.banner{
+    background-image: url(/pexels-laura-tancredi-7078663.jpg);
+    background-size: cover;
+    padding: 250px 0;
+    color:white;
+    background-repeat: no-repeat;
+}
+
+.card-1:hover{
+    border-radius: 25px;
+    box-shadow: 0 0 50px black;
+    transform: translatey(-25px);        
+}
+
+.para-1 {
+    font-style: italic;
+    
+}
+.banner{
+    border-bottom: 10px;
+
+}
+.tables{
+    background-color:whitesmoke;
+
+}
+.skills-1{
+    border-radius: 50px;
+}
+.card-p:hover{
+    border-radius: 25px;
+    box-shadow: 0 0 50px black;
+}
+
+.navbar-brand{
+    font-weight: bolder;
+    font-size: larger;
+}
+.certificate{
+    margin-bottom: 30px;
+    padding-top: 55px;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 1s;
+}
+.color-1{
+    color:black;
+}
+.certificate:hover{
+    background-color:aqua;
+    transform:translatey(-30px);
+}
+body{ 
+    font-family: 'Poppins';font-size: 22px;
+}
+.photo img{
+  border-radius: 50%;
+
+}
+
+
 
